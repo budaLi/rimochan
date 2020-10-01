@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.jsdelivr.net/gh/RimoChan/rimochan/rimo.png">
+<img align="right" src="https://cdn.jsdelivr.net/gh/RimoChan/rimochan/rimo.webp" width='383px'>
 
 大家好，我是莉沫酱。因为左边的那个人不在，所以我来介绍一下这里都有什么。
 
