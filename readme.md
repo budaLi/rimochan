@@ -16,10 +16,10 @@
     [![](https://img.shields.io/github/stars/RimoChan/PSO-image-match.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/PSO-image-match/stargazers)
 
 + 搞笑repo: 
-    - [【连载小说】爱因斯坦与异世界计算机网络 ](https://github.com/RimoChan/Einstein-and-The-Other-World-Computer-Network)
+    - [【连载小说】爱因斯坦与异世界计算机网络](https://github.com/RimoChan/Einstein-and-The-Other-World-Computer-Network)
     [![](https://img.shields.io/github/stars/RimoChan/Einstein-and-The-Other-World-Computer-Network.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/Einstein-and-The-Other-World-Computer-Network/stargazers)
-    - [GitHub快速取关机！](https://github.com/RimoChan/github-close-machine)
-    [![](https://img.shields.io/github/stars/RimoChan/github-close-machine.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/github-close-machine/stargazers)
+    - [【yinglish】淫语翻译机！](https://github.com/RimoChan/yinglish)
+    [![](https://img.shields.io/github/stars/RimoChan/yinglish.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/yinglish/stargazers)
     - [催眠調教的app！](https://github.com/RimoChan/Lunatic_red_eyes)
     [![](https://img.shields.io/github/stars/RimoChan/Lunatic_red_eyes.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/Lunatic_red_eyes/stargazers)
     - [色图网站！](https://github.com/RimoChan/color_site)
