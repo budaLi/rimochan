@@ -16,7 +16,7 @@
     [![](https://img.shields.io/github/stars/RimoChan/PSO-image-match.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/PSO-image-match/stargazers)
 
 + 搞笑repo: 
-    - [【连载小说】爱因斯坦与异世界计算机网络](https://github.com/RimoChan/Einstein-and-The-Other-World-Computer-Network)
+    - [【断更小说】爱因斯坦与异世界计算机网络](https://github.com/RimoChan/Einstein-and-The-Other-World-Computer-Network)
     [![](https://img.shields.io/github/stars/RimoChan/Einstein-and-The-Other-World-Computer-Network.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/Einstein-and-The-Other-World-Computer-Network/stargazers)
     - [【yinglish】淫语翻译机！](https://github.com/RimoChan/yinglish)
     [![](https://img.shields.io/github/stars/RimoChan/yinglish.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/yinglish/stargazers)
