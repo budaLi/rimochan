@@ -20,6 +20,8 @@
     [![](https://img.shields.io/github/stars/RimoChan/Einstein-and-The-Other-World-Computer-Network.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/Einstein-and-The-Other-World-Computer-Network/stargazers)
     - [【yinglish】淫语翻译机！](https://github.com/RimoChan/yinglish)
     [![](https://img.shields.io/github/stars/RimoChan/yinglish.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/yinglish/stargazers)
+    - [【幼女Code】反和谐超级武器！](https://github.com/RimoChan/unvcode)
+    [![](https://img.shields.io/github/stars/RimoChan/unvcode.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/unvcode/stargazers)
     - [催眠調教的app！](https://github.com/RimoChan/Lunatic_red_eyes)
     [![](https://img.shields.io/github/stars/RimoChan/Lunatic_red_eyes.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/Lunatic_red_eyes/stargazers)
     - [色图网站！](https://github.com/RimoChan/color_site)
